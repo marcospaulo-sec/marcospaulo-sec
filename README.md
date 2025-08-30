@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou Marcos Paulo 👋
 
-<!--
-**marcospaulo-sec/marcospaulo-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Aspirante a profissional em **Segurança da Informação**  
+☕ Foco inicial em **Java e React**  
+📚 Apaixonada por **aprendizado contínuo** e boas práticas  
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias
+- Java  
+- React  
+- JavaScript (ES6+)  
+- HTML5  
+- CSS3  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Estou aprendendo
+- Fundamentos de Segurança da Informação  
+- Estruturas de Dados  
+- Desenvolvimento Front-end com React  
+
+## 📂 Projetos
+- [(https://github.com/MarcosPaulo-SEC/sistema-cadastro-usuarios)– Projeto acadêmico em Java, aplicando orientação a objetos e boas práticas.  
+- [[Calculadora de Orçamento Pessoal](link_do_repositório) ](https://github.com/MarcosPaulo-SEC/calculadora-orcamento-pessoal))– Aplicação web em React para registrar despesas e visualizar resumo mensal.
+
+✨ “A tecnologia só faz sentido quando usada para transformar vidas de forma ética e responsável.”
+
